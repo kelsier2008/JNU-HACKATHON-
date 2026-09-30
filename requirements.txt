@@ -1,0 +1,2 @@
+streamlit>=1.40
+web3>=7.0
